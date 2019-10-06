@@ -1,0 +1,29 @@
+{
+  "name": "pizza-d-scraper",
+  "version": "1.0.0",
+  "description": "Web scraping tool to find an notify entities about the greatest pizza in NOLA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinnunez1717/PizzaDScraper.git"
+  },
+  "keywords": [
+    "pizza",
+    "delicious",
+    "eggplant",
+    "parm"
+  ],
+  "author": "Justin A Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justinnunez1717/PizzaDScraper/issues"
+  },
+  "homepage": "https://github.com/Justinnunez1717/PizzaDScraper#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
